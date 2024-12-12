@@ -1,5 +1,3 @@
-from django.core.serializers import serialize
-from django.db.migrations import serializer
 from django.db.models import Count, F
 from rest_framework import viewsets
 
